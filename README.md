@@ -1,6 +1,6 @@
 # Hi there, I'm Aman Rana 👋
 
-**Student & Frontend Developer Intern**
+**CSE Student**
 
 ---
 
