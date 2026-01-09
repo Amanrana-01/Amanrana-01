@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack
 
-- HTML, CSS, JavaScript, React
+- HTML, CSS, JavaScript, React, Typescript
 - Java, C++
 - Next.js, Payload CMS
 
