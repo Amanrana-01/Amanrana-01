@@ -8,10 +8,20 @@
 
 ## 🛠️ Tech Stack
 
-- HTML, CSS, JavaScript, React, Typescript
-- Java, C++
-- Next.js, Payload CMS
+**Backend & APIs**  
+Node.js · Next.js API Routes · Spring Boot · REST API Design · Spring Data JPA · Auth & RBAC
 
+**Databases**  
+PostgreSQL · MySQL · Supabase · Schema Design
+
+**Frontend**  
+React · Next.js · TypeScript · Tailwind CSS · HTML · CSS
+
+**Languages**  
+Java · JavaScript · TypeScript · Python · SQL · C
+
+**Tools**  
+Git · GitHub · Docker · Maven · Postman · Payload CMS
 ## 🌟 Featured Project
 
 ### [Postify](https://github.com/Amanrana-01/Postify)
